@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mxVocab/static/css/main.0d1fc1b4.chunk.css",
+    "main.js": "/mxVocab/static/js/main.d34b38cb.chunk.js",
+    "main.js.map": "/mxVocab/static/js/main.d34b38cb.chunk.js.map",
+    "runtime-main.js": "/mxVocab/static/js/runtime-main.da797b68.js",
+    "runtime-main.js.map": "/mxVocab/static/js/runtime-main.da797b68.js.map",
+    "static/js/2.ca4b19be.chunk.js": "/mxVocab/static/js/2.ca4b19be.chunk.js",
+    "static/js/2.ca4b19be.chunk.js.map": "/mxVocab/static/js/2.ca4b19be.chunk.js.map",
+    "static/js/3.c47ccca0.chunk.js": "/mxVocab/static/js/3.c47ccca0.chunk.js",
+    "static/js/3.c47ccca0.chunk.js.map": "/mxVocab/static/js/3.c47ccca0.chunk.js.map",
+    "index.html": "/mxVocab/index.html",
+    "service-worker.js": "/mxVocab/service-worker.js",
+    "service-worker.js.LICENSE.txt": "/mxVocab/service-worker.js.LICENSE.txt",
+    "service-worker.js.map": "/mxVocab/service-worker.js.map",
+    "static/css/main.0d1fc1b4.chunk.css.map": "/mxVocab/static/css/main.0d1fc1b4.chunk.css.map",
+    "static/js/2.ca4b19be.chunk.js.LICENSE.txt": "/mxVocab/static/js/2.ca4b19be.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mxVocab/static/media/Brusher.df09075c.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da797b68.js",
+    "static/js/2.ca4b19be.chunk.js",
+    "static/css/main.0d1fc1b4.chunk.css",
+    "static/js/main.d34b38cb.chunk.js"
+  ]
+}
